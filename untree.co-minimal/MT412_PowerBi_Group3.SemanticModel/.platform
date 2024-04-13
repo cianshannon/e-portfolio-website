@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "MT412_PowerBi_Group3"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "01c97e1c-c679-43ef-868f-31c431ad67aa"
+  }
+}
